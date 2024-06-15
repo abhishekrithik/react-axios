@@ -6,7 +6,7 @@ Welcome to the Library Management System, a web application designed to help man
 # Library Management System
 
 # Features
-1.Add and manage books, including titles, authors, ISBN numbers, and publication dates.
+1.Add and manage  books, including titles, authors, ISBN numbers, and publication dates.
 2.Add and manage authors with their names, birthdates, and biographies.
 3.View collections of books and authors.
 4.Edit existing book and author records.
